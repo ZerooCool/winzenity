@@ -1,4 +1,4 @@
-## Zenity for Windows
+## Zenity Portable for Windows
 
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl.txt)
 
@@ -6,9 +6,9 @@
 
 ### Descripción / Description
 
-|Download Win32|Size|SO|Version|Released|Last Update|MD5|
+|Download Win32|Size|OS|Version|Released|Last Update|MD5|
 |--------------|----|--|-------|--------|-----------|---|
-|[zenity.exe](https://github.com/maravento/winzenity/raw/master/zenity.exe)|1.9 MB|Windows XP/7/8/10|3.8.0 (gtk 3.8.2)|Jul 01, 2013|October 11, 2016|[zenity.md5](https://github.com/maravento/winzenity/raw/master/zenity.md5)|
+|[zenity.exe (.zip)](https://github.com/maravento/winzenity/raw/master/zenity.zip)|1.9 MB|Win XP/7/8/10|3.8.0 (gtk 3.8.2)|Jul 01/2013|Oct 11/2016|[zenity.md5](https://github.com/maravento/winzenity/raw/master/zenity.md5)|
 
 ### Oficial Project (Down since October 2016)
 
@@ -16,30 +16,40 @@
 * http://www.placella.com/software/zenity/
 * https://opensourcepack.blogspot.com.co/2013/02/zenity-360-portable.html
 
-### Manual/Wiki
+### Manual / Wiki
 
 * http://help.gnome.org/users/zenity/stable/index.html.en
 * https://help.gnome.org/users/zenity/stable/index.html.es
 * https://wiki.gnome.org/action/show/Projects/Zenity
+* https://en.wikipedia.org/wiki/Zenity
+
+### Options / Help
+
+[zenityhelp.txt](https://github.com/maravento/winzenity/raw/master/zenityhelp.txt)
 
 ### Authors
 
-Original author(s):	Sun Microsystems
-Developer(s):	Glynn Foster, Lucas Rocha
+| Original author(s) | Developer(s) |
+|------------------|------------|
+| Sun Microsystems |Glynn Foster, Lucas Rocha |
 
 ### Source Code
 
 * http://ftp.gnome.org/pub/gnome/sources/zenity
+* https://github.com/GNOME/zenity
 
-### Alterative Project
+### Contributions
 
-* https://github.com/kvaps/zenity-windows
+We thank all those who have contributed to this project
 
 ### Licence
 
 [GPL-3.0](https://www.gnu.org/licenses/gpl-3.0.en.html)
 
-© 2017 [Maravento Studio](http://www.maravento.com)
+[![License](https://licensebuttons.net/l/by-sa/4.0/88x31.png)](http://creativecommons.org/licenses/by-sa/4.0/)
+[maravento.com](http://www.maravento.com), [gateproxy.com](http://www.gateproxy.com) and [dextroyer.com](http://www.dextroyer.com) is licensed under a [Creative Commons Reconocimiento-CompartirIgual 4.0 Internacional License](http://creativecommons.org/licenses/by-sa/4.0/).
+
+© 2018 [Maravento Studio](http://www.maravento.com)
 
 #### Disclaimer
 
