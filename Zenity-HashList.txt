@@ -1,0 +1,41 @@
+
+                                          Hash List
+
+
+ Input Type: FILE 
+ FileName: zenity.zip
+
+
+
+ Hash List [Hash Name (Length) - Hash Data]
+ ***********************************************************************************
+
+	 ADLER32         (4) - 7b3c08b3
+
+	 CRC32           (4) - a895dccc
+
+	 RIPEMD160       (20) - 100aa3a1c678706f9551c4a4baaaced4db0a0e4d
+
+	 MD2             (16) - 94a678a7ae3628dc27237eaaac305d2e
+
+	 MD4             (16) - 94da0bc63d3210ad52b653f4cda82b99
+
+	 MD5             (16) - 1a480cd81e63557d69438d4dc3d4ee76
+
+	 SHA1            (20) - ae827e9ba50105dc5538c7d5bc985c27f9ec61c2
+
+	 SHA256          (32) - d2a53b086399261110d51c4198fd0e94a81aec25d0e78e6211d80eb3a2de10c1
+
+	 SHA384          (48) - 2743a61ce428ae5b7b0ffc1aa13d6a20c7b81d98af0db37eaf37c17621e1d2106b20619c8baf4afc90e88e622ee52adc
+
+	 SHA512          (64) - 4388a4886b7654bf5628456ce03a274d013295be490e9cac7f90470404269450a2745692a88bcccf3797dea028f890cc0514bb232494555925a39de0668f6546
+
+	 HAVAL256-4      (32) - dfb180de5cef6a87f36a10f4767d7549fb7e1dd53442ab12bc12b7402bc648ff
+
+	 WHIRLPOOL       (64) - 91f6df7c8ca4bc8970ef8ebec9cd287101e6f192d69f8af160800bcedac6095dabf05ae1a605047e0b0ab200089419fb16718484779b4eff26929895f548c619
+
+
+____________________________________________________________________________________
+
+
+
