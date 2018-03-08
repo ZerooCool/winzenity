@@ -1,6 +1,7 @@
 ## Zenity Portable for Windows
 
 [![License](https://img.shields.io/badge/License-GPLv3-blue.svg)](https://www.gnu.org/licenses/gpl.txt)
+[![Version](https://img.shields.io/badge/Version-3.8.0-yellowgreen.svg)](https://img.shields.io/badge/Version-3.8.0-yellowgreen.svg)
 
 **Zenity** is a utility used to add GUI forms to scripts and receive feedback from the user. It was designed for use with Linux and GNOME. It uses GTK+ and GLADE libraries. The latest version of Zenity Linux (3.20.0) was ported to Windows (win32 portable version 3.8.0).
 
